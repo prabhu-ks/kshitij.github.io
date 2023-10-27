@@ -1,3 +1,11 @@
+## Table of Contents
+- [Summary](#summary)
+- [Education](#education)
+- [Technical Skills](#technical-skills)
+- [Work Experience](#work-experience)
+- [Relevant Projects](#relevant-projects)
+- [Contact Information](#contact-information)
+
 ## Summary
 I am a graduate student at Northeastern University with a strong academic foundation in Data Science and Cloud Computing. I have proven expertise in data analysis, machine learning, and cloud technologies, and practical experience in data visualization, data preprocessing, and cross-functional collaboration.
 
